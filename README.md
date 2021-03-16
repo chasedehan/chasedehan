@@ -1,4 +1,4 @@
-### Hi, I'm Chase.
+# Hi, I'm Chase.
 
 I'm currently a Data Scientist at Nextdoor building the machine learning on the ads platform.  
  
