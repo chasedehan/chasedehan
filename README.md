@@ -12,7 +12,7 @@ Previously I:
   
 <br><br>
 Some tech things that get me stoked:
-- Python (particularly list comprehensions)
+- Python
 - AutoML 
 - Vim
 - Building POCs in greenfield projects
