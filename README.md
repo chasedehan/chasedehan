@@ -1,6 +1,6 @@
 # Hi, I'm Chase.
 
-I'm currently a Data Scientist at Nextdoor building the machine learning on the ads platform.  
+I'm currently a Data Scientist and Economist at Nextdoor building the market for ads.
  
 <br><br>
 ## Previously I:
