@@ -1,15 +1,19 @@
 # Hi, I'm Chase.
 
-I'm currently a Data Scientist and Economist at Nextdoor building the market for ads.
+I'm currently a Data Scientist and Economist at Step Mobile, where we are building banking for the next generation.
  
 <br><br>
 ## Previously I:
+- Tech Lead for Ads ML @ Nextdoor (2021-2023)
 - Led Data Science and ML @ Tesorio (2018-2021)
 - Data Scientist building credit scoring models @ Progressive Leasing (2016-2018)
 - Assistant Professor of Finance and Economics @ University of South Carolina Upstate (2013-2016)
+
+<br><br>
+## My Background
 - PhD in Economics @ University of Utah, 2013
 - Competed in Bobsled @ 2010 US Winter Olympic Trials, placing 6th
-- Sergeant/Section Leader @ US Marine Corps 
+- Sergeant/Section Leader @ US Marine Corps, with two combat deployments to Iraq
   
 <br><br>
 ## Some tech things that get me stoked:
@@ -17,5 +21,5 @@ I'm currently a Data Scientist and Economist at Nextdoor building the market for
 - AutoML 
 - Vim
 - Building POCs in greenfield projects
-- Building and delivering useful products
+- Building useful things, whether in tech or life.
 
