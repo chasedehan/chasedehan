@@ -1,6 +1,6 @@
 # Hi, I'm Chase.
 
-I'm currently a Data Scientist and Economist at Step Mobile, where we are building banking for the next generation.
+I currently lead Data Science and Machine Learning at Step Mobile, where we are building banking for the next generation.
  
 <br><br>
 ## Previously I:
