@@ -15,11 +15,3 @@ I currently lead Data Science and Machine Learning at Step Mobile, where we are 
 - Competed in Bobsled @ 2010 US Winter Olympic Trials, placing 6th
 - Sergeant/Section Leader @ US Marine Corps, with two combat deployments to Iraq
   
-<br><br>
-## Some tech things that get me stoked:
-- Python
-- AutoML 
-- Vim
-- Building POCs in greenfield projects
-- Building useful things, whether in tech or life.
-
