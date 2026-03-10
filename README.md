@@ -4,7 +4,7 @@ I'm currently a Research Science Engineering Manager at Meta.
  
 <br><br>
 ## Previously I:
-- Led Data Science and Machine Learning at Step Mobile (2023-2025)
+- Led Data Science and Machine Learning @ Step Mobile (2023-2025)
 - Tech Lead for Ads ML @ Nextdoor (2021-2023)
 - Led Data Science and ML @ Tesorio (2018-2021)
 - Data Scientist building credit scoring models @ Progressive Leasing (2016-2018)
