@@ -1,6 +1,6 @@
 # Hi, I'm Chase.
 
-I'm currently a Research Science Engineering Manager at Meta.
+I'm currently a Staff Research Scientist in AAI Labs at Meta.
  
 <br><br>
 ## Previously I:
